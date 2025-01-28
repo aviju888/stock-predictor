@@ -25,3 +25,9 @@ Install the dependencies by running:
 
 ```bash
 pip install streamlit yfinance prophet plotly ollama
+```
+
+Run by doing: 
+```
+chainlit run stocks.py
+```
