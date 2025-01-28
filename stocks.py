@@ -143,7 +143,7 @@ def plot_interactive(df, symbol, forecast):
 #######################################
 # 4) Main Streamlit App
 #######################################
-st.title("Stock Predictor with deepseek-r1 (Using ollama) - No <think> Exposed")
+st.title("Stock Predictor with deepseek-r1")
 
 symbols = st.text_input("Enter stock symbols (comma-separated):", "NVDA, TSLA")
 days_back = st.number_input("Historical data range (days):", min_value=1, value=365)
