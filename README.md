@@ -1,6 +1,6 @@
 # **Stock Predictor with Deepseek-r1**
 
-This **Streamlit-based application** predicts stock prices for a given set of symbols using historical data and Prophet's forecasting model. It also leverages **Deepseek-r1**, an AI model, to analyze the reasons behind stock price movements over a given period. The AI model's insights are displayed along with the forecasted stock price chart.
+This **Streamlit-based application** predicts stock prices for a given set of symbols using historical data and Prophet's forecasting model. It also leverages **Deepseek-r1** to analyze the reasons behind stock price movements over a given period. The AI model's insights are displayed along with the forecasted stock price chart.
 
 ## **Features:**
 - **Stock Prediction:** Predict future stock prices based on historical data using the **Prophet model**.
